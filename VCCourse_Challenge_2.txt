@@ -1,0 +1,1 @@
+Utilizing the git bash command in order to commit this file to my TechAcademyProject repository. 
